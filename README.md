@@ -167,7 +167,3 @@ job-assistant/
 ```
 
 ---
-
-## License
-
-MIT © 2025 — see [LICENSE](LICENSE) for details.
