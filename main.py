@@ -1,5 +1,5 @@
 """
-AI Job Application Assistant v2 — Main FastAPI Application.
+AI Job Application Assistant — Main FastAPI Application.
 
 Flow: detect role type → run 4 analyses in parallel → return all results.
 """

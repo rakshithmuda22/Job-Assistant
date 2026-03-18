@@ -1,5 +1,5 @@
 """
-Prompt templates for AI Job Application Assistant v2.
+Prompt templates for AI Job Application Assistant.
 
 Architecture (5 LLM calls — 1 sequential, then 4 parallel):
   1. detect_role_type          → classify intern/entry/mid/senior

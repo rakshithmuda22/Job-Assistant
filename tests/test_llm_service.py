@@ -1,5 +1,5 @@
 """
-Unit tests for LLMService v2.
+Unit tests for LLMService.
 
 All Groq API calls are mocked — no real network requests are made.
 Covers: JSON parsing, helper methods, all 5 analysis methods, retry logic,
