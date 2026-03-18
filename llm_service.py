@@ -1,5 +1,5 @@
 """
-LLM Service for AI Job Application Assistant v2.
+LLM Service for AI Job Application Assistant.
 
 5-call architecture:
   1. detect_role_type           → quick role classification
