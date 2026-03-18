@@ -26,5 +26,5 @@ USER appuser
 
 EXPOSE 8000
 
-# Use exec form so signals (SIGTERM) are forwarded correctly
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
+# Use shell form so $PORT is expanded at runtime (Render sets PORT dynamically)
+CMD uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000} --workers 1
