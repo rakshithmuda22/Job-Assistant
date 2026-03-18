@@ -6,7 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Groq](https://img.shields.io/badge/LLM-Groq_API-F55036)](https://console.groq.com)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 > Upload your resume, paste a job description, and get a match score, rewritten bullet points, a tailored cover letter, and a skills gap analysis — powered by Groq's blazing-fast LLaMA 3.1 API.
 
