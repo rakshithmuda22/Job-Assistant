@@ -5,6 +5,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Groq](https://img.shields.io/badge/LLM-Groq_API-F55036)](https://console.groq.com)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](https://docker.com)
+[![Tests](https://img.shields.io/badge/Tests-44_passing-brightgreen?logo=pytest&logoColor=white)](#running-tests)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
 > Upload your resume, paste a job description, and get a structured match score, ATS keyword analysis, rewritten bullet points, a tailored cover letter, skills gap breakdown, action plan, and project ideas — powered by Groq's blazing-fast LLaMA 3.1 API.
