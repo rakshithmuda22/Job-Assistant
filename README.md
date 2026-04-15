@@ -83,10 +83,12 @@ Open [http://localhost:8000](http://localhost:8000) in your browser.
 ## Running with Docker
 
 ```bash
-docker-compose up --build
+docker compose up --build
+# Docker Compose v1:
+# docker-compose up --build
 ```
 
-The app is available at **http://localhost:8080**.
+The app is available at **http://localhost:8080** (host port mapped to container port 8000).
 
 ---
 
