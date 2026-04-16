@@ -63,3 +63,4 @@ logs/
 *.bak
 *.tmp
 *.orig
+.claude/
