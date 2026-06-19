@@ -127,7 +127,7 @@ FastAPI  ──► pdf_parser.py
               prompts.py  ← role-calibrated prompts
                      │
               Groq API  (llama-3.1-8b-instant)
-              ~200-800 ms per call, JSON output
+              JSON output, typically sub-second
                      │
               llm_service.py  ← parses & validates JSON
                      │

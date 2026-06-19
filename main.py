@@ -116,7 +116,7 @@ async def analyze_resume(
     try:
         service = get_llm_service()
 
-        # Step 1: detect role type (sequential — fast, ~200ms)
+        # Step 1: detect role type (sequential — fast, sub-second)
         role_info = await service.detect_role_type(jd)
         role_type = role_info["role_type"]
         logger.info("Role detected: %s", role_type)
